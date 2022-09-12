@@ -1,0 +1,7 @@
+env_3_8_x
+.vscode
+dataset/hwdb_trn
+dataset/__pycache__
+dataset/hwdb.tfrecord
+dataset/hwdb3.tfrecord
+dataset/characters.txt
